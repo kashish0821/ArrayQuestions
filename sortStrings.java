@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 public class StringSorter {
     public static void main(String[] args) {
-        String[] array = {"banana", "apple", "grape", "orange"};
+        String[] array = {"banana", "apple", "grape", "orange" "mango"};
         
         System.out.println("Before sorting: " + Arrays.toString(array));
         
